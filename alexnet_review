@@ -1,0 +1,6 @@
+里面包含了alexnet模型的训练、用第三方模型的fine tuning脚本。   
+引用说明：
+    相关代码和资料转自
+    1> https://blog.csdn.net/op07p6aaqo9u71/article/details/78295819;
+    2> https://blog.csdn.net/op07p6aaqo9u71/article/details/78295819;
+    3> http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/;
